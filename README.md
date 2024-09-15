@@ -1,6 +1,6 @@
 # 🌟 Control de Iluminación Automática
 
-## 👋 Mensaje de Bienvenida
+## 👋  Bienvenido!
 
 ¡Hola! Mi nombre es Cristian Vargas y este es un proyecto para la materia "Aproximación al Mundo del Trabajo" de la Tecnicatura Superior en Desarrollo de Software del ISPC (Instituto Superior Politécnico Córdoba).
 
