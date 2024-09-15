@@ -79,7 +79,7 @@ led_control.enciende_led()
 
 # Apagar el LED
 led_control.apagar_led()
-
+```
 
 
 
@@ -140,7 +140,7 @@ oled_control.limpiar_pantalla()
 
 # Escribir texto en la pantalla
 oled_control.escribir_texto("Hola, Mundo!", 0, 0)
-
+```
 
 
 
@@ -196,3 +196,4 @@ sensor_control = ControladorSensor(34)
 # Leer el valor actual del sensor
 valor = sensor_control.mostrar_valor_actual()
 print(f"Valor del sensor: {valor}")
+```
